@@ -1,1 +1,1 @@
-# testrepo
+Dummy repository for testing.
